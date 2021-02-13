@@ -1,13 +1,40 @@
-
-# BruteFb
-HACK FACEBOOK DENGAN METODE BRUTEFORCE DI TERMUX
-# Cara Install
-### $ pkg update && pkg upgrade
-## $ pkg install git
-## $ pkg install python
-## $ pip install requests
-## $ pip install bs4
-## $ git clone https://github.com/zamanzay9090
-## $ cd nezam
-## $ python fb.py
-#zamanzayhacker
+nezam12345
+nezam1234
+zamanzay1234
+zamanzay12345
+786786
+500500
+500600
+20182019
+700800
+800900
+@@@Nezam@@@
+nezam@@@
+zamaznay@@@
+@@@zamaznay
+0789123596
+123586
+789123596
+nezam9090
+nezam0007
+nezam001
+hacker123
+hacker1234
+hacker12345
+nezam123
+afghan123
+afghan1234
+afghan12345
+afghanistan123
+afghanistan
+afghanistan12345
+mazar1234
+mazar123
+mazar12345
+mazar110110
+kabul123
+kabul1234
+kabul12345
+gokhordi
+badkadi
+lawdaahmaq
